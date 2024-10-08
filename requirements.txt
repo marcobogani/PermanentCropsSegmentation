@@ -1,0 +1,8 @@
+geopandas==1.0.1
+numpy==2.1.2
+rasterio==1.4.1
+sentinelsat==1.2.1
+shapely==2.0.6
+torch==2.4.1
+torchaudio==2.4.1
+torchvision==0.19.1
